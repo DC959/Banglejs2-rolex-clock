@@ -1,6 +1,6 @@
 # Rolex
 
-![] (screenshot.png)
+![](screenshot.png)
 
 Created with the aid of the Espruino documentation and looking through many of the wonderful exising watchfaces that have been made.
 This has not been tested on a watch yet as I haven't aquired one but has been tested in the emulator.
